@@ -8,5 +8,6 @@ The original SPECY project code can be found [here](https://github.com/wemperor/
 
 The setup (plus an additional SD-logger ethernet shield) is as follows:
 
-![Setup](setup.png)
+![](https://github.com/calugo/AgroSightSPECY/blob/master/setup.png)
+
 # AgroSightSPECY
