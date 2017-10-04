@@ -7,4 +7,7 @@ This is an extension of [SPECY](https://github.com/wemperor/SPECY)  originally d
 
 The connections (plus an additional SD-logger ethernet shield) are as follows:
 
-![](https://github.com/calugo/AgroSightSPECY/blob/master/setup.png)
+<p align="center">
+  <img src="
+https://github.com/calugo/AgroSightSPECY/blob/master/setup.png?raw=true" alt="SPECY2"/>  
+</p>
